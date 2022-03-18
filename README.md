@@ -19,7 +19,7 @@ Accuracy Score:
 
     Accuracy of the Easy Ensemble AdaBoost Classifier: 0.9197 = 91 percent
 
-Score of precision:
+Score precision:
 
     Precision Score of Nave Random Oversampling: 99 percent
 
@@ -33,7 +33,7 @@ Score of precision:
 
     Precision Score of Easy Ensemble AdaBoost Classifier: 99 percent
 
-Score for Recall (Sensitivity):
+Recall (Sensitivity):
 
     Sensitivity of Nave Random Oversampling: 0.56 = 56 percent
 
